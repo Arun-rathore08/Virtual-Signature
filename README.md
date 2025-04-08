@@ -8,18 +8,36 @@ MediaPipe
 
 Numpy
 
-Time
+Streamlit
+
+Collections
+
+warnings
+
+PIL
+
+RepotLab
 
 ## how it works-
 
 install all dependencies 
 
-run the script :  python3 Signature.py
+run the script- streamlit run Signature.py
 
-Draw your signature 
+Run air canvas 
 
-show  victory sign to save the signature
+draw your signature
 
-to erase use your thumb and index finger
+Keyboard controls 
 
-to clear the screen wave 3 times
+for colours:
+
+          "r" for red
+          
+          "b" for blue
+          
+          "g" for green
+
+          "y" for yellow
+
+to save the signature press "s" and to quit the window press "q"
